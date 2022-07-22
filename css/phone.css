@@ -1,0 +1,97 @@
+
+
+.hprime-2 {
+    font-size: 2rem;
+    margin: 1rem 0;
+    color: white;
+}
+
+.hsec-2 {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #868686;
+}
+
+
+.home{
+    padding: 1rem;
+    margin: 7rem 1rem;
+}
+
+.pera{
+    width: 100%;
+}
+
+.nav-bar ul li {
+    margin: 1rem 0;
+}
+
+.nav-bar ul li a{
+    font-size: small;
+
+}
+
+.btn{
+    padding: 1px 14px;
+    font-size: small;
+}
+
+.arti-cont {
+    display: block;
+}
+
+.box{
+    /* display: flex; */
+    flex-direction: row;
+    width: 95%;
+    margin: 1% -2%;
+
+}
+
+.box img{
+    margin: 0px auto;
+}
+
+.centered {  
+    position: relative;
+    top: -7rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+ .centered-2 {
+    color: white;   
+    position: relative;
+    top: -7rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1rem;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.box hr{    
+    position: relative;
+    top: -7rem;
+    width: 30%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.email{
+    font-size: 1rem;
+}
+
+.btn-2{
+    padding: 1px 10px;
+    font-size: small;
+}
+
+footer span{
+    font-size: small;
+}
